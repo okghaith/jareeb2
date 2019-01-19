@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
 
         BitmapFactory.Options o = new BitmapFactory.Options();
         o.inDither = false;
-        o.inSampleSize = 4;
+        o.inSampleSize = 88484;
 
         int width = imageBitmap.getWidth();
         int height = imageBitmap.getHeight();
